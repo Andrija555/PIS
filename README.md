@@ -8,3 +8,5 @@ ana.bilos@student.fsre.ba
 
 Iva Hrkać 523/RM
 iva.hrkac@student.fsre.ba
+
+FamilyApp aplikacija se nalazi na "master" branch-u.

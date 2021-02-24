@@ -26,7 +26,7 @@
               <div class="media d-flex align-items-center">
                 <img loading="lazy" src="{{ URL::asset("/novo/img/icon.jpg") }}"alt="..." width="80" height="80" class="mr-3 rounded-circle img-thumbnail shadow-sm">
                 <div class="media-body ">
-                  <h4><b>Obitelj Biloš</b></h4>
+                  <h4><b>{{Auth::user()->name}}</b></h4>
                   
                 </div>
               </div>
